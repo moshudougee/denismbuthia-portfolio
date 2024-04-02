@@ -1,4 +1,4 @@
-import Img1 from '../assets/projects/dembu-social.png';
+import Img1 from '../assets/projects/dembu-social2.png';
 import Img2 from '../assets/projects/dembublog.png';
 
 /** 
