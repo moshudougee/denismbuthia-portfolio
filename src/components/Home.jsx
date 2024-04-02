@@ -20,7 +20,7 @@ const Home = () => {
                         designing) exceptional digital experiences. Currently, I’m focused on
                         building responsive full-stack web applications.
                         </p>
-                        <a href="/docs/FULL STACK RESUME.docx" target="_blank" download="My Resume">
+                        <a href="/docs/full-stack resume.pdf" target="_blank" download="My Resume">
                         <button className="px-8 shadow-gray-500 shadow-md py-4 mt-5 bg-gradient-to-t from-cyan-500 rounded-full to-[#1e4074] hover:from-[#1e4074] hover:to-cyan-700">
                         Download resume
                         </button>
