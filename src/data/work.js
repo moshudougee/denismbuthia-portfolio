@@ -41,8 +41,8 @@ export const workData = [
         title:"Dembu Safari",
         description:"Full stack mobile responsive website.Appwrite, Next js, Tailwind css",
         tags:['Full Stack'],
-        projectLink:"https://dembu-estate.onrender.com/",
-        codeLink:"https://github.com/moshudougee/dembu-estate",
+        projectLink:"https://dembu-safari.vercel.app/",
+        codeLink:"https://github.com/moshudougee/dembu-safari",
         imgUrl:Img4
     }
 ];
