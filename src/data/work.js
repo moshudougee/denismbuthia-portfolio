@@ -1,6 +1,7 @@
 import Img1 from '../assets/projects/dembu-social2.png';
 import Img2 from '../assets/projects/dembublog.png';
 import Img3 from '../assets/projects/dembu-estate.png';
+import Img4 from '../assets/projects/dembu-safari.png';
 
 
 export const workData = [
@@ -26,12 +27,22 @@ export const workData = [
     },
     {
         id:3,
-        name:"Demb Estate",
+        name:"Dembu Estate",
         title:"Dembu Estate",
-        description:"Full stack mobile responsive blog.MongoDB, Express, React, Nodejs, Tailwind css",
+        description:"Full stack mobile responsive website.MongoDB, Express, React, Nodejs, Tailwind css",
         tags:['Full Stack'],
         projectLink:"https://dembu-estate.onrender.com/",
         codeLink:"https://github.com/moshudougee/dembu-estate",
         imgUrl:Img3
+    },
+    {
+        id:4,
+        name:"Dembu Safari",
+        title:"Dembu Safari",
+        description:"Full stack mobile responsive website.Appwrite, Next js, Tailwind css",
+        tags:['Full Stack'],
+        projectLink:"https://dembu-estate.onrender.com/",
+        codeLink:"https://github.com/moshudougee/dembu-estate",
+        imgUrl:Img4
     }
 ];
