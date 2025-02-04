@@ -5,6 +5,8 @@ import Img4 from '../assets/projects/dembu-safari.png';
 import Img5 from '../assets/projects/portfolio.png';
 import Img6 from '../assets/projects/mazebank.png';
 import Img7 from '../assets/projects/dembu-lms.png';
+import Img8 from '../assets/projects/dembu-shop.png';
+import Img9 from '../assets/projects/my-movies.png';
 
 
 export const workData: Work[] = [
@@ -77,5 +79,25 @@ export const workData: Work[] = [
         projectLink:"/docs/dembu-lms.apk",
         codeLink:"https://github.com/moshudougee/dembu-native-lms",
         imgUrl:Img7
+    },
+    {
+        id:8,
+        name:"Dembu Shop",
+        title:"Dembu Shop",
+        description:"Full stack e-commerce responsive website.JSON, Next js, Tailwind css",
+        tags:['Full Stack'],
+        projectLink:"https://dembu-shop-beta.vercel.app/",
+        codeLink:"https://github.com/moshudougee/dembu-shop",
+        imgUrl:Img8
+    },
+    {
+        id:9,
+        name:"My Movies",
+        title:"My Movies",
+        description:"Frontend mobile responsive website.React, Tailwind css",
+        tags:['Frontend'],
+        projectLink:"https://my-movies-beta-wheat.vercel.app/",
+        codeLink:"https://github.com/moshudougee/my-movies",
+        imgUrl:Img9
     }
 ];
