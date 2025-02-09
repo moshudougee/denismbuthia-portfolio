@@ -20,7 +20,7 @@ const MobileNav = () => {
             className={
                 !nav
                     ? 'hidden'
-                    : 'absolute top-0 left-0 w-5/6 h-1/3 px-10 bg-background/90 flex flex-col justify-center items-start'
+                    : 'absolute top-20 left-0 w-5/6 h-auto p-10 bg-background/95 flex flex-col justify-center items-start z-50'
             }
         >
             <li className="py-6 text-4xl" onClick={toggleNav}>

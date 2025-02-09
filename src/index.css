@@ -138,7 +138,7 @@
   }
 
   .work-body {
-    @apply flex flex-col gap-2 justify-center items-center max-w-[1450px] w-full mx-10 xl:m-auto p-5;
+    @apply flex flex-col gap-2 justify-center items-center max-w-[1450px] w-full mx-10 my-auto xl:m-auto p-5;
   }
 
   .intro-text {
