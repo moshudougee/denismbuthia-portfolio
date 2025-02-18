@@ -5,8 +5,8 @@ import { AiFillEye, AiFillGithub } from "react-icons/ai";
 import Student from '../assets/dvp4.png';
 
 const Work = () => {
-    const works:Work[] = workData;
-    const [filterWork, setFilterWork] = useState<Work[]>(workData);
+    const works:Work[] = workData.slice().reverse();
+    const [filterWork, setFilterWork] = useState<Work[]>(works);
     const [activeFilter, setActiveFilter] = useState<string>('All');
     const [animateCard, setAnimateCard] = useState<TargetAndTransition>({ y: 0, opacity: 1 });
 

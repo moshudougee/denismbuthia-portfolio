@@ -8,7 +8,7 @@ const Socials = () => {
                 <li className='list bg-blue-600'>
                     <a
                     className='link'
-                    href='https://www.linkedin.com/in/denis-mbuthia-17a56842/'
+                    href='https://www.linkedin.com/in/denis-mbuthia/'
                     target='_blank'
                     rel='noreferrer'
                     >
