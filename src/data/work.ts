@@ -7,6 +7,7 @@ import Img6 from '../assets/projects/mazebank.png';
 import Img7 from '../assets/projects/dembu-lms.png';
 import Img8 from '../assets/projects/dembu-shop.png';
 import Img9 from '../assets/projects/my-movies.png';
+import Img10 from '../assets/projects/dembu-chat.png';
 
 
 export const workData: Work[] = [
@@ -99,5 +100,15 @@ export const workData: Work[] = [
         projectLink:"https://my-movies-beta-wheat.vercel.app/",
         codeLink:"https://github.com/moshudougee/my-movies",
         imgUrl:Img9
+    },
+    {
+        id:10,
+        name:"Dembu Chat",
+        title:"Dembu Chat",
+        description:"Full stack mobile responsive chat app. Nextjs, Tailwind Css, MongoDB, Pusher API",
+        tags:['Full Stack'],
+        projectLink:"https://dembu-chat-tan.vercel.app/",
+        codeLink:"https://github.com/moshudougee/dembu-chat",
+        imgUrl:Img10
     }
 ];
