@@ -8,6 +8,7 @@ import Img7 from '../assets/projects/dembu-lms.png';
 import Img8 from '../assets/projects/dembu-shop.png';
 import Img9 from '../assets/projects/my-movies.png';
 import Img10 from '../assets/projects/dembu-chat.png';
+import Img11 from '../assets/projects/dembu-todo.png';
 
 
 export const workData: Work[] = [
@@ -110,5 +111,15 @@ export const workData: Work[] = [
         projectLink:"https://dembu-chat-tan.vercel.app/",
         codeLink:"https://github.com/moshudougee/dembu-chat",
         imgUrl:Img10
+    },
+    {
+        id:11,
+        name:"Dembu Todo",
+        title:"Dembu Todo",
+        description:"Full stack mobile responsive todos app. Reactjs, Tailwind Css, Redis, Expressjs",
+        tags:['Full Stack'],
+        projectLink:"https://dembu-todo.vercel.app/",
+        codeLink:"https://github.com/moshudougee/dembu-todo",
+        imgUrl:Img11
     }
 ];
